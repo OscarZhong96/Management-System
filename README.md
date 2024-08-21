@@ -32,3 +32,5 @@ https://www.typescriptlang.org/docs/handbook/intro.html - Typescript website wit
 https://www.w3schools.com/typescript/index.php - some practice questions
 
 https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=9s - APIs for Beginners 2023 - How to use an API (Full Course / Tutorial) by freeCodeCamp (refresher)
+
+https://www.youtube.com/watch?v=-MTSQjw5DrM -  RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express by fireship 
