@@ -34,3 +34,26 @@ https://www.w3schools.com/typescript/index.php - some practice questions
 https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=9s - APIs for Beginners 2023 - How to use an API (Full Course / Tutorial) by freeCodeCamp (refresher)
 
 https://www.youtube.com/watch?v=-MTSQjw5DrM -  RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express by fireship 
+
+24/08/2024 19:49pm 
+
+Ive started on the project using VS
+created Real-time Task Management System API folder
+then using the Terminal started creating the file structure
+
+# mkdir creates a folder called taskmanager-back and cd navigates you to that folder
+mkdir taskmanager-back
+cd taskmanager-back
+
+# makes a folder called src and cd navigates into src folder
+mkdir src
+cd src
+
+# makes multiple subfolder in src using mkdir
+mkdir controllers && mkdir services && mkdir database && mkdir routes
+
+# Creating a index file which will be the entry point to the API
+index.ts
+
+
+
