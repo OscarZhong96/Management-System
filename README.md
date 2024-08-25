@@ -58,5 +58,6 @@ mkdir controllers && mkdir services && mkdir database && mkdir routes
 Creating a index file which will be the entry point to the API
 index.ts
 
-
+creating a websocket file for real time updates
+websocket.ts
 
