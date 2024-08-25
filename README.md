@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=9s - APIs for Beginners 2023 - How
 https://www.youtube.com/watch?v=-MTSQjw5DrM -  RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express by fireship 
 
 # 24/08/2024 19:49pm 
-# Resources
+## Resources
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/dynamodb-examples.html - AWS documentation for dynamo db
 https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/#basic-setup - setting up API and best practices
 
@@ -68,3 +68,8 @@ cd ..
 npm init -y
 
 # 25/08/2024 17:10pm 
+So now that i have the basic file structure setup I will start to look at installing the dependencies
+### Typescript and Node.Js
+So using the Typescript documentation website https://www.typescriptlang.org/download/ and follow the documentation from node.Js website https://nodejs.org/en/learn/getting-started/nodejs-with-typescript
+
+we can install using 
