@@ -72,4 +72,7 @@ So now that i have the basic file structure setup I will start to look at instal
 ### Typescript and Node.Js
 So using the Typescript documentation website https://www.typescriptlang.org/download/ and follow the documentation from node.Js website https://nodejs.org/en/learn/getting-started/nodejs-with-typescript
 
-we can install using 
+we can install using:
+npm install typescript
+
+
