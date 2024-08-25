@@ -44,20 +44,27 @@ Ive started on the project using VS
 created Real-time Task Management System API folder
 then using the Terminal started creating the file structure
 
-mkdir creates a folder called taskmanager-back and cd navigates you to that folder
+**mkdir creates a folder called taskmanager-back and cd navigates you to that folder**
 mkdir taskmanager-back
 cd taskmanager-back
 
-makes a folder called src and cd navigates into src folder
+**makes a folder called src and cd navigates into src folder**
 mkdir src
 cd src
 
-makes multiple subfolder in src using mkdir
+**makes multiple subfolder in src using mkdir**
 mkdir controllers && mkdir services && mkdir database && mkdir routes
 
-Creating a index file which will be the entry point to the API
+**Creating a index file which will be the entry point to the API**
 index.ts
 
-creating a websocket file for real time updates
+**creating a websocket file for real time updates**
 websocket.ts
 
+**So we need to move out of src folder and back into taskmanager-back**
+cd ..
+
+**Creating package.Json file**
+npm init -y
+
+# 25/08/2024 17:10pm 
